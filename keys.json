@@ -1,4 +1,4 @@
-local data = {
-    ["lft-rdbll-xxx-xxx"] = nil,
-    ["swfty"] = nil
+{
+    ["lft-rdbll-xxx-xxx"] = true,
+    ["swfty"] = true
 }
