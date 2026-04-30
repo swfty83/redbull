@@ -1,1 +1,4 @@
-{}
+local data = {
+    ["lft-rdbll-xxx-xxx"] = nil
+    ["swfty"] = nil
+}
